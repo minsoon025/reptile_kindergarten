@@ -91,7 +91,7 @@
 
 <h4>동물 상세</h4>
 
-![동물 상세](./exec/assets/동물-상세.gif)
+![동물 상세](./exec/assets/동물상세.gif)
 
 </hr>
 
